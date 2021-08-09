@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "pansy_lint",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2021-08-09T11:42:52.709084Z",
+  "generator": "pub",
+  "generatorVersion": "2.13.4"
+}
