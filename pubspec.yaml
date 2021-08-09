@@ -1,6 +1,6 @@
 name: pansy_lint
 description: Lints for Pansy Dev apps, packages, and plugins.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/pansydev/pansy_lint
 
 environment:
